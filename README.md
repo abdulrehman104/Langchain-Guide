@@ -90,14 +90,6 @@ An overview of LangChain chains and how they are used to create complex workflow
 - 4_chains_parallel.py
 - 5_chains_branching.py
 
-### **11. Rag Practice:**
-
-Practical applications and examples of RAG (Retrieval-Augmented Generation) in real-world use cases.
-
-### **12. Agents & Tools.**
-
-Guide to LangChain's agents and tools, explaining how to enhance model capabilities by incorporating external tools and data.
-
 ### Additional Files
 
 - **.env.example**  
